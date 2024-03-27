@@ -34,6 +34,7 @@ $ - Paid
 
 ## List of apps
 - [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery&hl=en) ● ⏏︎ ♥︎
+- [APatch](https://github.com/bmax121/APatch) - Buggy ⦿ ⏏︎ ☺︎
 - [Calculator by Google](https://play.google.com/store/apps/details?id=com.google.android.calculator&hl=en) ● ✻ ♥︎
 - [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en) ⦿ ✻ ♥︎
 - [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en) - Settings only ○ ✻ ♥︎
@@ -48,7 +49,19 @@ $ - Paid
 - [Google Keep](https://play.google.com/store/search?q=keep&c=apps&hl=en) ● ✻ ♥︎
 - [KernelSU](https://github.com/tiann/KernelSU) ● ⏏︎ ☺︎
 - [Pixel Launcher Mods](https://github.com/KieronQuinn/PixelLauncherMods) ● ⏏︎ ☺︎
-- [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en) ⦿ ✻ ♥︎
+- [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en) ● ✻ ♥︎
+- [Phone by Google](https://play.google.com/store/apps/details?id=com.google.android.dialer&hl=en) ⦿ ✻ ♥︎
+- [Recorder by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder&hl=en) ○ ✻ ♥︎
+- Settings ⦿ ✻
+- [SmartSpacer](https://github.com/KieronQuinn/Smartspacer) ● ⏏︎ ☺︎
+- [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup&hl=en) ⦿ ⏏︎ ♥︎
+- [Google Tasks](https://play.google.com/store/search?q=tasks&c=apps&hl=en) ● ✻ ♥︎
+- [Threads](https://play.google.com/store/apps/details?id=com.instagram.barcelona&hl=en) ● ⏏︎ ♥︎
+- [YouTube Music](https://play.google.com/store/search?q=yt%20music&c=apps&hl=en) ● ✻ ♥︎
+
+
+
+
 
 
 
