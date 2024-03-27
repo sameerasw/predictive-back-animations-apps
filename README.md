@@ -52,6 +52,7 @@ $ - Paid
 - [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en) ● ✻ ♥︎
 - [Phone by Google](https://play.google.com/store/apps/details?id=com.google.android.dialer&hl=en) ⦿ ✻ ♥︎
 - [Recorder by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder&hl=en) ○ ✻ ♥︎
+- [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en) - Partially ○ ⏏︎ ♥︎
 - Settings ⦿ ✻
 - [SmartSpacer](https://github.com/KieronQuinn/Smartspacer) ● ⏏︎ ☺︎
 - [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup&hl=en) ⦿ ⏏︎ ♥︎
