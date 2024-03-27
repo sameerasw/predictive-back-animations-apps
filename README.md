@@ -36,3 +36,22 @@ $ - Paid
 - [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery&hl=en) ● ⏏︎ ♥︎
 - [Calculator by Google](https://play.google.com/store/apps/details?id=com.google.android.calculator&hl=en) ● ✻ ♥︎
 - [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en) ⦿ ✻ ♥︎
+- [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en) - Settings only ○ ✻ ♥︎
+- [Clock by Google](https://play.google.com/store/apps/details?id=com.google.android.deskclock&hl=en) ⦿ ✻ ♥︎
+- [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en) ⦿ ✻ ♥︎
+- [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files&hl=en) ⦿ ✻ ♥︎
+- [Gboard - the Google Keyboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en) ● ✻ ♥︎
+- [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en) ○ ✻ ♥︎
+- [GMS Flags](https://github.com/polodarb/GMS-Flags) ● ⏏︎ ☺︎
+- [Google One](https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red&hl=en) ⦿ ✻ ♥︎
+- [KDE Connect](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp&hl=en) ● ⏏︎ ☺︎
+- [Google Keep](https://play.google.com/store/search?q=keep&c=apps&hl=en) ● ✻ ♥︎
+- [KernelSU](https://github.com/tiann/KernelSU) ● ⏏︎ ☺︎
+- [Pixel Launcher Mods](https://github.com/KieronQuinn/PixelLauncherMods) ● ⏏︎ ☺︎
+- [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en) ⦿ ✻ ♥︎
+
+
+
+
+
+
