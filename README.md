@@ -10,16 +10,19 @@ A list of apps that implemented the Android's "Predictive back animations" exper
     ![CleanShot 2024-03-27 at 9  16 01](https://github.com/sameerasw/predictive-back-animations-apps/assets/68902530/c474772d-b149-4846-acea-b6c62faf897c)
 </details>
 
+
 <details>
   <summary>How it works? </summary>
   https://github.com/sameerasw/predictive-back-animations-apps/assets/68902530/85586da0-ed07-40bb-b827-38bd7200b856
 </details>
 
+
 ### Guide
-● - App close animation
-○ - In app animations
-⦿ - In app and app close animation (fully implemented)
-✻ - Google apps
-❤︎ - Non-Google apps
+● - App close animation<br>
+○ - In app animations<br>
+⦿ - In app and app close animation (fully implemented)<br>
+✻ - Google apps <br>
+⏏︎ - Non-Google apps
+
 
 ## List of apps
