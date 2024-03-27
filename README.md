@@ -17,12 +17,22 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 </details>
 
 
+
 ### Guide
 ● - App close animation<br>
 ○ - In app animations<br>
 ⦿ - In app and app close animation (fully implemented)<br>
+
 ✻ - Google apps <br>
-⏏︎ - Non-Google apps
+⏏︎ - Non-Google apps <br>
+
+♥︎ - Free <br>
+☺︎ - FOSS <br>
+$ - Paid
+
 
 
 ## List of apps
+- [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery&hl=en) ● ⏏︎ ♥︎
+- [Calculator by Google](https://play.google.com/store/apps/details?id=com.google.android.calculator&hl=en) ● ✻ ♥︎
+- [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en) ⦿ ✻ ♥︎
