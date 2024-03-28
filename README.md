@@ -13,6 +13,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 
 <details>
   <summary>How it works? </summary>
+  
   https://github.com/sameerasw/predictive-back-animations-apps/assets/68902530/85586da0-ed07-40bb-b827-38bd7200b856
 </details>
 
