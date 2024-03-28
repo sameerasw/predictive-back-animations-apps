@@ -55,6 +55,7 @@ $ - Paid
 - [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en) - Partially ○ ⏏︎ ♥︎
 - Settings ⦿ ✻
 - [SmartSpacer](https://github.com/KieronQuinn/Smartspacer) ● ⏏︎ ☺︎
+- [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music&hl=en) ● ⏏︎ ♥︎
 - [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup&hl=en) ⦿ ⏏︎ ♥︎
 - [Google Tasks](https://play.google.com/store/search?q=tasks&c=apps&hl=en) ● ✻ ♥︎
 - [Threads](https://play.google.com/store/apps/details?id=com.instagram.barcelona&hl=en) ● ⏏︎ ♥︎
