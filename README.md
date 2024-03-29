@@ -1,25 +1,7 @@
 # Predictive back animations apps
 A list of apps that implemented the Android's "Predictive back animations" experimental feature.
 
-<details>
-  <summary>How to enable? </summary>
-    
-  1. Enable developer options.
-  2. Navigate to developer options
-  3. Enable the toggle "Predictive back navigations". May need a reboot for some apps.
-    ![CleanShot 2024-03-27 at 9  16 01](https://github.com/sameerasw/predictive-back-animations-apps/assets/68902530/c474772d-b149-4846-acea-b6c62faf897c)
-</details>
-
-
-<details>
-  <summary>How it works? </summary>
-  
-  https://github.com/sameerasw/predictive-back-animations-apps/assets/68902530/85586da0-ed07-40bb-b827-38bd7200b856
-</details>
-
-
-
-## Guide
+## Legend
 
 ### Implementation Status
 | Symbol | Meaning |
@@ -29,13 +11,15 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | ✅ | In app and app close animation (fully implemented) |
 
 ### Price
-
 | Symbol | Meaning |
 | --- | --- |
 | 🆓 | Free |
 | 🔓 | Free Open Source |
 | 💰 | Freemium |
 | 💲 | Paid |
+
+
+## List
 
 ### First Party Applications (Google Published)
 | App | Package Identifier | Implementation | Notes |
@@ -76,3 +60,20 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) | org.swiftapps.swiftbackup | ✅ | 🆓 |  |
 | [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) | Jays2Kings.tachiyomiJ2K | ✅ | 🔓 |  |
 | [Threads](https://play.google.com/store/apps/details?id=com.instagram.barcelona) | com.instagram.barcelona | ❌ | 🆓 |  |
+
+---
+
+
+## How to enable predictive back animations:
+
+1. Enable developer options. [(Quick Guide)](https://developer.android.com/studio/debug/dev-options#enable)
+
+2. Navigate to developer options.
+
+3. Enable the toggle "Predictive back navigations". May need a reboot for some apps.
+
+![CleanShot 2024-03-27 at 9  16 01](https://github.com/sameerasw/predictive-back-animations-apps/assets/68902530/c474772d-b149-4846-acea-b6c62faf897c)
+
+## What it looks like:
+
+  https://github.com/sameerasw/predictive-back-animations-apps/assets/68902530/85586da0-ed07-40bb-b827-38bd7200b856
