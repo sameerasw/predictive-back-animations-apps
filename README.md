@@ -48,10 +48,15 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | --- | --- | :---: | :---: | --- |
 | [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery) | me.linshen.abattery | ❌ | 🆓 |  |
 | [APatch](https://github.com/bmax121/APatch) | bmax121.APatch | ✅ | 🔓 | Buggy implementation, works occasionally |
+| [EskomSePush](https://play.google.com/store/apps/details?id=com.ashwhale.sepush.eskom) | com.ashwhale.sepush.eskom | ❌ | 💰 |  |
+| [Galaxy MaxHz](https://github.com/tribalfs/GalaxyMaxHzPub) | com.tribalfs.gmh | ❌ | 💰 |  |
 | [GMS Flags](https://github.com/polodarb/GMS-Flags) | polodarb.GMS-Flags | ❌ | 🔓 |  |
 | [KDE Connect](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp) | org.kde.kdeconnect_tp | ❌ | 🔓 |  |
 | [KernelSU](https://github.com/tiann/KernelSU) | tiann.KernelSU | ❌ | 🔓 |  |
+| [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=en&gl=US) | com.arlosoft.macrodroid | ❌ | 💰 |  |
+| [NiceLock](https://play.google.com/store/apps/details?id=com.bluehorizonapps.nicelock3&hl=en&gl=US) | com.bluehorizonapps.nicelock3 | ❌ | 💰 |  |
 | [Pixel Launcher Mods](https://github.com/KieronQuinn/PixelLauncherMods) | KieronQuinn.PixelLauncherMods | ❌ | 🔓 |  |
+| [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) | com.arn.scrobble | ❌ | 🔓 |  |
 | [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | com.reddit.frontpage | ⚠️ | 🆓 | Partial implementation |
 | [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) | moe.shizuku.privileged.api | ✅ | 🔓 |  |
 | [SmartSpacer](https://github.com/KieronQuinn/Smartspacer) | KieronQuinn.Smartspacer | ❌ | 🔓 |  |
@@ -60,6 +65,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) | org.swiftapps.swiftbackup | ✅ | 🆓 |  |
 | [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) | Jays2Kings.tachiyomiJ2K | ✅ | 🔓 |  |
 | [Threads](https://play.google.com/store/apps/details?id=com.instagram.barcelona) | com.instagram.barcelona | ❌ | 🆓 |  |
+| [Tidal](https://play.google.com/store/apps/details?id=com.aspiro.tidal&hl=en&gl=US) | com.aspiro.tidal | ❌ | 💲 |  |
 
 ---
 
