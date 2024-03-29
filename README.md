@@ -19,60 +19,60 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 
 
 
-### Guide
-● - App close animation<br>
-○ - In app animations<br>
-⦿ - In app and app close animation (fully implemented)<br>
+## Guide
 
-✻ - Google apps <br>
-⏏︎ - Non-Google apps <br>
+### Implementation Status
+| Symbol | Meaning |
+| --- | --- |
+| ❌ | App close animation |
+| ⚠️ | In app animations |
+| ✅ | In app and app close animation (fully implemented) |
 
-♥︎ - Free <br>
-☺︎ - FOSS <br>
-$ - Paid
+### Price
 
+| Symbol | Meaning |
+| --- | --- |
+| 🆓 | Free |
+| 🔓 | Free Open Source |
+| 💰 | Freemium |
+| 💲 | Paid |
 
+### First Party Applications (Google Published)
+| App | Package Identifier | Implementation | Notes |
+| --- | --- | :---: | --- |
+| [Calculator by Google](https://play.google.com/store/apps/details?id=com.google.android.calculator&hl=en) | com.google.android.calculator | ❌ |  |
+| [Clock by Google](https://play.google.com/store/apps/details?id=com.google.android.deskclock&hl=en) | com.google.android.deskclock | ✅ |  |
+| [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en) | com.google.android.apps.wellbeing | ✅ |  |
+| [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files&hl=en) | com.google.android.apps.nbu.files | ✅ |  |
+| [Gboard - the Google Keyboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en) | com.google.android.inputmethod.latin | ❌ |  |
+| [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en) | com.google.android.gm | ⚠️ |  |
+| [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en) | com.google.android.calendar | ✅ |  |
+| [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en) | com.android.chrome | ⚠️ | Partial implementation |
+| [Google Keep](https://play.google.com/store/search?q=keep&c=apps&hl=en) | com.google.android.keep | ❌ |  |
+| [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon&hl=en) | com.google.android.apps.tachyon | ⚠️ |  |
+| [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en) | com.google.android.apps.messaging | ❌ |  |
+| [Google One](https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red&hl=en) | com.google.android.apps.subscriptions.red | ✅ |  |
+| [Google Tasks](https://play.google.com/store/search?q=tasks&c=apps&hl=en) | com.google.android.apps.tasks | ❌ |  |
+| [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos&hl=en) | com.google.android.videos | ✅ |  |
+| [Phone by Google](https://play.google.com/store/apps/details?id=com.google.android.dialer&hl=en) | com.google.android.dialer | ✅ |  |
+| [Recorder by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder&hl=en) | com.google.android.apps.recorder | ⚠️ |  |
+| Settings | com.android.settings | ✅ |  |
+| [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) | com.google.android.apps.youtube.music | ❌ |  |
 
-## List of apps
-- [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery&hl=en) ● ⏏︎ ♥︎
-- [APatch](https://github.com/bmax121/APatch) - Buggy ⦿ ⏏︎ ☺︎
-- [Calculator by Google](https://play.google.com/store/apps/details?id=com.google.android.calculator&hl=en) ● ✻ ♥︎
-- [Clock by Google](https://play.google.com/store/apps/details?id=com.google.android.deskclock&hl=en) ⦿ ✻ ♥︎
-- [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing&hl=en) ⦿ ✻ ♥︎
-- [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files&hl=en) ⦿ ✻ ♥︎
-- [Gboard - the Google Keyboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin&hl=en) ● ✻ ♥︎
-- [GMS Flags](https://github.com/polodarb/GMS-Flags) ● ⏏︎ ☺︎
-- [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en) ○ ✻ ♥︎
-- [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar&hl=en) ⦿ ✻ ♥︎
-- [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome&hl=en) - Settings only ○ ✻ ♥︎
-- [Google Keep](https://play.google.com/store/search?q=keep&c=apps&hl=en) ● ✻ ♥︎
-- [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon&hl=en) ○ ✻ ♥︎
-- [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging&hl=en) ● ✻ ♥︎
-- [Google One](https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red&hl=en) ⦿ ✻ ♥︎
-- [Google Tasks](https://play.google.com/store/search?q=tasks&c=apps&hl=en) ● ✻ ♥︎
-- [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos&hl=en) ⦿ ✻ ♥︎
-- [KDE Connect](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp&hl=en) ● ⏏︎ ☺︎
-- [KernelSU](https://github.com/tiann/KernelSU) ● ⏏︎ ☺︎
-- [Phone by Google](https://play.google.com/store/apps/details?id=com.google.android.dialer&hl=en) ⦿ ✻ ♥︎
-- [Pixel Launcher Mods](https://github.com/KieronQuinn/PixelLauncherMods) ● ⏏︎ ☺︎
-- [Recorder by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder&hl=en) ○ ✻ ♥︎
-- [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en) - Partially ○ ⏏︎ ♥︎
-- Settings ⦿ ✻
-- [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=en) ⦿ ⏏︎ ☺︎
-- [SmartSpacer](https://github.com/KieronQuinn/Smartspacer) ● ⏏︎ ☺︎
-- [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark&hl=en) ● ⏏︎ ☺︎
-- [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music&hl=en) ● ⏏︎ ♥︎
-- [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup&hl=en) ⦿ ⏏︎ ♥︎
-- [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) ⦿ ⏏︎ ☺︎
-- [Threads](https://play.google.com/store/apps/details?id=com.instagram.barcelona&hl=en) ● ⏏︎ ♥︎
-- [YouTube Music](https://play.google.com/store/search?q=yt%20music&c=apps&hl=en) ● ✻ ♥︎
-
-
-
-
-
-
-
-
-
-
+### Third Party Applications
+| App | Package Identifier | Implementation | Price | Notes |
+| --- | --- | :---: | :---: | --- |
+| [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery&hl=en) | me.linshen.abattery | ❌ | 🆓 |  |
+| [APatch](https://github.com/bmax121/APatch) | bmax121.APatch | ✅ | 🔓 | Buggy implementation, works occasionally |
+| [GMS Flags](https://github.com/polodarb/GMS-Flags) | polodarb.GMS-Flags | ❌ | 🔓 |  |
+| [KDE Connect](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp&hl=en) | org.kde.kdeconnect_tp | ❌ | 🔓 |  |
+| [KernelSU](https://github.com/tiann/KernelSU) | tiann.KernelSU | ❌ | 🔓 |  |
+| [Pixel Launcher Mods](https://github.com/KieronQuinn/PixelLauncherMods) | KieronQuinn.PixelLauncherMods | ❌ | 🔓 |  |
+| [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage&hl=en) | com.reddit.frontpage | ⚠️ | 🆓 | Partial implementation |
+| [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=en) | moe.shizuku.privileged.api | ✅ | 🔓 |  |
+| [SmartSpacer](https://github.com/KieronQuinn/Smartspacer) | KieronQuinn.Smartspacer | ❌ | 🔓 |  |
+| [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark&hl=en) | com.readdle.spark | ❌ | 🔓 |  |
+| [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music&hl=en) | com.spotify.music | ❌ | 💰 |  |
+| [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup&hl=en) | org.swiftapps.swiftbackup | ✅ | 🆓 |  |
+| [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) | Jays2Kings.tachiyomiJ2K | ✅ | 🔓 |  |
+| [Threads](https://play.google.com/store/apps/details?id=com.instagram.barcelona&hl=en) | com.instagram.barcelona | ❌ | 🆓 |  |
