@@ -5,14 +5,14 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 
 ### Implementation Status
 | Symbol | Meaning |
-| --- | --- |
+| :---: | --- |
 | ❌ | App close animation |
 | ⚠️ | In app animations |
 | ✅ | In app and app close animation (fully implemented) |
 
 ### Price
 | Symbol | Meaning |
-| --- | --- |
+| :---: | --- |
 | 🆓 | Free |
 | 🔓 | Free Open Source |
 | 💰 | Freemium |
