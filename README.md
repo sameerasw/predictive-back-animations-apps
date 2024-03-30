@@ -35,6 +35,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [Google Keep](https://play.google.com/store/search?q=keep&c=apps) | com.google.android.keep | ❌ |  |
 | [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon) | com.google.android.apps.tachyon | ⚠️ |  |
 | [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) | com.google.android.apps.messaging | ❌ |  |
+| [Google News](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines&hl=en) | com.google.android.apps.magazines | ✅ |  |
 | [Google One](https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red) | com.google.android.apps.subscriptions.red | ✅ |  |
 | [Google Tasks](https://play.google.com/store/search?q=tasks&c=apps) | com.google.android.apps.tasks | ❌ |  |
 | [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos) | com.google.android.videos | ✅ |  |
