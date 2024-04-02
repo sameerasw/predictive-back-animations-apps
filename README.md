@@ -55,7 +55,9 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [KDE Connect](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp) | org.kde.kdeconnect_tp | ❌ | 🔓 |  |
 | [KernelSU](https://github.com/tiann/KernelSU) | tiann.KernelSU | ❌ | 🔓 |  |
 | [MacroDroid](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=en&gl=US) | com.arlosoft.macrodroid | ❌ | 💰 |  |
+| [Musify](https://github.com/gokadzev/Musify) | com.gokadzev.musify | ❌ | 🔓 |  |
 | [NiceLock](https://play.google.com/store/apps/details?id=com.bluehorizonapps.nicelock3&hl=en&gl=US) | com.bluehorizonapps.nicelock3 | ❌ | 💰 |  |
+| [NYT Games](https://play.google.com/store/apps/details?id=com.nytimes.crossword) | com.nytimes.crossword | ❌ | 💰 |  |
 | [Pixel Launcher Mods](https://github.com/KieronQuinn/PixelLauncherMods) | KieronQuinn.PixelLauncherMods | ❌ | 🔓 |  |
 | [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) | com.arn.scrobble | ❌ | 🔓 |  |
 | [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | com.reddit.frontpage | ⚠️ | 🆓 | Partial implementation |
