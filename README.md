@@ -48,7 +48,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | App | Package Identifier | Implementation | Price | Notes |
 | --- | --- | :---: | :---: | --- |
 | [aBattery](https://play.google.com/store/apps/details?id=me.linshen.abattery) | me.linshen.abattery | ❌ | 🆓 |  |
-| [APatch](https://github.com/bmax121/APatch) | bmax121.APatch | ✅ | 🔓 | Buggy implementation, works occasionally |
+| [APatch](https://github.com/bmax121/APatch) | bmax121.APatch | ❌ | 🔓 |  |
 | [aShell You](https://github.com/DP-Hridayan/aShellYou) | in.hridayan.ashell | ✅ | 🔓 |  |
 | [EskomSePush](https://play.google.com/store/apps/details?id=com.ashwhale.sepush.eskom) | com.ashwhale.sepush.eskom | ❌ | 💰 |  |
 | [Galaxy MaxHz](https://github.com/tribalfs/GalaxyMaxHzPub) | com.tribalfs.gmh | ❌ | 💰 |  |
