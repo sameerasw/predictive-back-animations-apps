@@ -60,8 +60,10 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [Musify](https://github.com/gokadzev/Musify) | com.gokadzev.musify | ❌ | 🔓 |  |
 | [NiceLock](https://play.google.com/store/apps/details?id=com.bluehorizonapps.nicelock3&hl=en&gl=US) | com.bluehorizonapps.nicelock3 | ❌ | 💰 |  |
 | [NYT Games](https://play.google.com/store/apps/details?id=com.nytimes.crossword) | com.nytimes.crossword | ❌ | 💰 |  |
-| [Pixel Launcher Mods](https://github.com/KieronQuinn/PixelLauncherMods) | KieronQuinn.PixelLauncherMods | ❌ | 🔓 |  |
 | [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) | com.arn.scrobble | ❌ | 🔓 |  |
+| [Pixel Launcher Mods](https://github.com/KieronQuinn/PixelLauncherMods) | KieronQuinn.PixelLauncherMods | ❌ | 🔓 |  |
+| [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers&hl=en&gl=US) | com.pashapuma.pix.wallpapers | ✅ | 🔓 | Except some screens |
+| [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US) | com.maxmpz.audioplayer | ✅ | 💰 |  |
 | [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | com.reddit.frontpage | ✅ | 🆓 | Partial implementation |
 | [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) | moe.shizuku.privileged.api | ✅ | 🔓 |  |
 | [SmartSpacer](https://github.com/KieronQuinn/Smartspacer) | KieronQuinn.Smartspacer | ❌ | 🔓 |  |
