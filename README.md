@@ -25,6 +25,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | App | Package Identifier | Implementation | Notes |
 | --- | --- | :---: | --- |
 | [Calculator by Google](https://play.google.com/store/apps/details?id=com.google.android.calculator) | com.google.android.calculator | ❌ |  |
+| Circle to Search | com.google.android.apps.search.omnient | ✅ | System component |
 | [Clock by Google](https://play.google.com/store/apps/details?id=com.google.android.deskclock) | com.google.android.deskclock | ✅ |  |
 | [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing) | com.google.android.apps.wellbeing | ✅ |  |
 | [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) | com.google.android.apps.nbu.files | ✅ |  |
@@ -41,7 +42,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos) | com.google.android.videos | ✅ |  |
 | [Phone by Google](https://play.google.com/store/apps/details?id=com.google.android.dialer) | com.google.android.dialer | ✅ |  |
 | [Recorder by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder) | com.google.android.apps.recorder | ⚠️ |  |
-| Settings | com.android.settings | ✅ |  |
+| Settings | com.android.settings | ✅ | System component |
 | [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music) | com.google.android.apps.youtube.music | ❌ |  |
 
 ### Third Party Applications
