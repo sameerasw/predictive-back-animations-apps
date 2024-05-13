@@ -98,4 +98,4 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 
 ### Thanks
 - [BiosPlus](https://github.com/BiosPlus) for formatting MD <3
-- [Djkcool](https://github.com/Djkcool) Apps
+- [Djkcool](https://github.com/Djkcool), [MominRaza](https://github.com/MominRaza) for Apps
