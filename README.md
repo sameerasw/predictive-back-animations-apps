@@ -55,6 +55,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [EskomSePush](https://play.google.com/store/apps/details?id=com.ashwhale.sepush.eskom) | com.ashwhale.sepush.eskom | ❌ | 💰 |  |
 | [Galaxy MaxHz](https://github.com/tribalfs/GalaxyMaxHzPub) | com.tribalfs.gmh | ❌ | 💰 |  |
 | [GMS Flags](https://github.com/polodarb/GMS-Flags) | polodarb.GMS-Flags | ❌ | 🔓 |  |
+| [Intune Company Portal](https://play.google.com/store/apps/details?id=com.microsoft.windowsintune.companyportal&hl=en&gl=US) | com.microsoft.windowsintune.companyportal | ✅ | 💰 |  |
 | [KDE Connect](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp) | org.kde.kdeconnect_tp | ❌ | 🔓 |  |
 | [KernelSU](https://github.com/tiann/KernelSU) | tiann.KernelSU | ❌ | 🔓 |  |
 | [Lawnchair 14 Beta](https://github.com/LawnchairLauncher/lawnchair) | app.lawnchair | ✅ | 🔓 |  |
