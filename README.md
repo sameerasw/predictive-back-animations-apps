@@ -76,6 +76,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) | com.spotify.music | ❌ | 💰 |  |
 | [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) | org.swiftapps.swiftbackup | ✅ | 🆓 |  |
 | [TachiyomiJ2K](https://github.com/Jays2Kings/tachiyomiJ2K) | Jays2Kings.tachiyomiJ2K | ✅ | 🔓 |  |
+| [Tap, Tap](https://github.com/KieronQuinn/TapTap) | com.kieronquinn.app.taptap | ❌ | 🔓 |  |
 | [Threads](https://play.google.com/store/apps/details?id=com.instagram.barcelona) | com.instagram.barcelona | ❌ | 🆓 |  |
 | [Tidal](https://play.google.com/store/apps/details?id=com.aspiro.tidal&hl=en&gl=US) | com.aspiro.tidal | ❌ | 💲 |  |
 | [WallMan](https://apt.izzysoft.de/fdroid/index/apk/com.colorata.wallman) | com.colorata.wallman | ❌ | 🔓 |  |
