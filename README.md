@@ -71,7 +71,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer&hl=en&gl=US) | com.maxmpz.audioplayer | ✅ | 💲 |  |
 | [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | com.reddit.frontpage | ✅ | 🆓 | Partial implementation |
 | [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api) | moe.shizuku.privileged.api | ✅ | 🔓 |  |
-| [SmartSpacer](https://github.com/KieronQuinn/Smartspacer) | KieronQuinn.Smartspacer | ❌ | 🔓 |  |
+| [SmartSpacer](https://github.com/KieronQuinn/Smartspacer) | KieronQuinn.Smartspacer | ✅ | 🔓 |  |
 | [Spark Mail](https://play.google.com/store/apps/details?id=com.readdle.spark) | com.readdle.spark | ❌ | 🔓 |  |
 | [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music) | com.spotify.music | ❌ | 💰 |  |
 | [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup) | org.swiftapps.swiftbackup | ✅ | 🆓 |  |
