@@ -99,6 +99,14 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 
   https://github.com/sameerasw/predictive-back-animations-apps/assets/68902530/85586da0-ed07-40bb-b827-38bd7200b856
 
+---
+
+> Good news! predictive back animations is enabled by default in current Android 15 BETA builds so it is no longer an experimental feature. Hope many apps will continue to implement it <3
+
+> ![image](https://github.com/sameerasw/predictive-back-animations-apps/assets/68902530/184e1cdf-d4c1-4bad-b1c4-bb54e6f5ccd4)
+
+---
+
 ### Thanks
 - [BiosPlus](https://github.com/BiosPlus) for formatting MD <3
 - [Djkcool](https://github.com/Djkcool), [MominRaza](https://github.com/MominRaza) for Apps
