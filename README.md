@@ -32,7 +32,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [Gboard - the Google Keyboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) | com.google.android.inputmethod.latin | ❌ |  |
 | [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm) | com.google.android.gm | ⚠️ |  |
 | [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar) | com.google.android.calendar | ✅ |  |
-| [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome) | com.android.chrome | ⚠️ | In-app settings |
+| [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome) | com.android.chrome | ⚠️ | |
 | [Google Keep](https://play.google.com/store/search?q=keep&c=apps) | com.google.android.keep | ❌ |  |
 | [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon) | com.google.android.apps.tachyon | ⚠️ |  |
 | [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) | com.google.android.apps.messaging | ✅ |  |
