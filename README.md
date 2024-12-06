@@ -39,6 +39,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) | com.google.android.apps.messaging | ✅ |  |
 | [Google News](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines) | com.google.android.apps.magazines | ✅ |  |
 | [Google One](https://play.google.com/store/apps/details?id=com.google.android.apps.subscriptions.red) | com.google.android.apps.subscriptions.red | ✅ |  |
+| [Google Search](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) | com.google.android.googlequicksearchbox | ❌ |  |
 | [Google Tasks](https://play.google.com/store/search?q=tasks&c=apps) | com.google.android.apps.tasks | ❌ |  |
 | [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos) | com.google.android.videos | ✅ |  |
 | [Phone by Google](https://play.google.com/store/apps/details?id=com.google.android.dialer) | com.google.android.dialer | ✅ |  |
