@@ -29,7 +29,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [Clock by Google](https://play.google.com/store/apps/details?id=com.google.android.deskclock) | com.google.android.deskclock | ✅ |  |
 | [Digital Wellbeing](https://play.google.com/store/apps/details?id=com.google.android.apps.wellbeing) | com.google.android.apps.wellbeing | ✅ |  |
 | [Files by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.nbu.files) | com.google.android.apps.nbu.files | ✅ |  |
-| [Gboard - the Google Keyboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) | com.google.android.inputmethod.latin | ❌ |  |
+| [Gboard - the Google Keyboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) | com.google.android.inputmethod.latin | ✅ |  |
 | [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm) | com.google.android.gm | ⚠️ |  |
 | [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar) | com.google.android.calendar | ✅ |  |
 | [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome) | com.android.chrome | ⚠️ | |
