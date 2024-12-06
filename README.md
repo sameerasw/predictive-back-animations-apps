@@ -35,6 +35,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [Google Chat](https://play.google.com/store/apps/details?id=com.google.android.apps.dynamite) | com.google.android.apps.dynamite | ❌ |  |
 | [Google Chrome](https://play.google.com/store/apps/details?id=com.android.chrome) | com.android.chrome | ✅ | |
 | [Google Keep](https://play.google.com/store/search?q=keep&c=apps) | com.google.android.keep | ❌ | w/some in app panels but not with notes |
+| [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps) | com.google.android.apps.maps | ❌ |  |
 | [Google Meet](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon) | com.google.android.apps.tachyon | ✅ |  |
 | [Google Messages](https://play.google.com/store/apps/details?id=com.google.android.apps.messaging) | com.google.android.apps.messaging | ✅ |  |
 | [Google News](https://play.google.com/store/apps/details?id=com.google.android.apps.magazines) | com.google.android.apps.magazines | ✅ |  |
