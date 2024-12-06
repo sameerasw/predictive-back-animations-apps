@@ -59,6 +59,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [EskomSePush](https://play.google.com/store/apps/details?id=com.ashwhale.sepush.eskom) | com.ashwhale.sepush.eskom | ❌ | 💰 |  |
 | [Galaxy MaxHz](https://github.com/tribalfs/GalaxyMaxHzPub) | com.tribalfs.gmh | ❌ | 💰 |  |
 | [GMS Flags](https://github.com/polodarb/GMS-Flags) | polodarb.GMS-Flags | ❌ | 🔓 |  |
+| [Hail](https://github.com/hail-is/hail) | com.aistra.hail | ❌ | 🔓 |  |
 | [InnerTune](https://github.com/z-huang/InnerTune) | com.zionhuang.music | ✅ | 🔓 |  |
 | [Intune Company Portal](https://play.google.com/store/apps/details?id=com.microsoft.windowsintune.companyportal) | com.microsoft.windowsintune.companyportal | ✅ | 💰 |  |
 | [JustMoney](https://play.google.com/store/apps/details?id=com.jjewuz.justmoney) | com.jjewuz.justmoney | ✅ | 🆓 |  |
