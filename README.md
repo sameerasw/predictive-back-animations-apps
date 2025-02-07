@@ -44,6 +44,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [Google Search](https://play.google.com/store/apps/details?id=com.google.android.googlequicksearchbox) | com.google.android.googlequicksearchbox | ❌ |  |
 | [Google Tasks](https://play.google.com/store/search?q=tasks&c=apps) | com.google.android.apps.tasks | ❌ |  |
 | [Google TV](https://play.google.com/store/apps/details?id=com.google.android.videos) | com.google.android.videos | ✅ |  |
+| [Google Wallet](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel) | com.google.android.apps.walletnfcrel | ⚠️ |  |
 | [Phone by Google](https://play.google.com/store/apps/details?id=com.google.android.dialer) | com.google.android.dialer | ✅ |  |
 | Pixel Launcher | com.google.android.apps.nexuslauncher | ✅ | System launcher |
 | [Recorder by Google](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder) | com.google.android.apps.recorder | ⚠️ |  |
