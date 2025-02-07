@@ -75,7 +75,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [NiceLock](https://play.google.com/store/apps/details?id=com.bluehorizonapps.nicelock3) | com.bluehorizonapps.nicelock3 | ❌ | 💰 |  |
 | [NYT Games](https://play.google.com/store/apps/details?id=com.nytimes.crossword) | com.nytimes.crossword | ❌ | 💰 |  |
 | [Pano Scrobbler](https://github.com/kawaiiDango/pano-scrobbler) | com.arn.scrobble | ❌ | 🔓 |  |
-| [Pixel Launcher Mods](https://github.com/KieronQuinn/PixelLauncherMods) | KieronQuinn.PixelLauncherMods | ❌ | 🔓 |  |
+| [Pixel Launcher Mods](https://github.com/KieronQuinn/PixelLauncherMods) | KieronQuinn.PixelLauncherMods | ✅ | 🔓 |  |
 | [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers) | com.pashapuma.pix.wallpapers | ✅ | 🔓 | Except some screens |
 | [Poweramp](https://play.google.com/store/apps/details?id=com.maxmpz.audioplayer) | com.maxmpz.audioplayer | ✅ | 💲 |  |
 | [Reddit](https://play.google.com/store/apps/details?id=com.reddit.frontpage) | com.reddit.frontpage | ✅ | 🆓 | Partial implementation |
