@@ -60,6 +60,7 @@ A list of apps that implemented the Android's "Predictive back animations" exper
 | [aShell You](https://github.com/DP-Hridayan/aShellYou) | in.hridayan.ashell | ✅ | 🔓 |  |
 | [Claude by Anthropic](https://play.google.com/store/apps/details?id=com.anthropic.claude&hl=en) | com.anthropic.claude | ✅ | 💰 |  |
 | [EskomSePush](https://play.google.com/store/apps/details?id=com.ashwhale.sepush.eskom) | com.ashwhale.sepush.eskom | ❌ | 💰 |  |
+| [Freeletics](https://play.google.com/store/apps/details?id=com.freeletics.lite&hl=en) | com.freeletics.lite | ✅ | 💰 |  |
 | [Galaxy MaxHz](https://github.com/tribalfs/GalaxyMaxHzPub) | com.tribalfs.gmh | ❌ | 💰 |  |
 | [GMS Flags](https://github.com/polodarb/GMS-Flags) | polodarb.GMS-Flags | ❌ | 🔓 |  |
 | [Hail](https://github.com/hail-is/hail) | com.aistra.hail | ❌ | 🔓 |  |
